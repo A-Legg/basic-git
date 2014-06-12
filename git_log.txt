@@ -1,3 +1,15 @@
+commit 9dee01cc551a48ea2bfa7b98a78e144cd712790a
+Author: Adam Legg <adam.legg@gmail.com>
+Date:   Thu Jun 12 15:01:59 2014 -0600
+
+    new line
+
+commit f1f04b74f1b58c50a04cd7f18d4bbbe9974795cc
+Author: Adam Legg <adam.legg@gmail.com>
+Date:   Thu Jun 12 14:27:45 2014 -0600
+
+    github redirect
+
 commit 943858ed4985130a13803bcfb1acbb4e0663fc51
 Author: Adam Legg <adam.legg@gmail.com>
 Date:   Thu Jun 12 14:19:52 2014 -0600
