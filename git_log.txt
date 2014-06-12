@@ -1,8 +1,40 @@
+commit 4287ba055de1dc1ecca30aefca1877a523bb4476
+Merge: a8dc2ca 15473c8
+Author: Adam Legg <adam.legg@gmail.com>
+Date:   Thu Jun 12 15:55:14 2014 -0600
+
+    Merge https://github.com/A-Legg/basic-git
+
+commit a8dc2cacdc639b6879278a506b3b066fc402e2f3
+Author: Adam Legg <adam.legg@gmail.com>
+Date:   Thu Jun 12 15:54:23 2014 -0600
+
+    update logs
+
+commit 15473c8b464cf5629c3ca30b1a41ec47b4bc1adb
+Merge: 994afe7 9dee01c
+Author: Rick Walker <walkrick@yahoo.com>
+Date:   Thu Jun 12 15:32:57 2014 -0600
+
+    three
+
+commit 994afe755a9a9ee0a4b0e52eb1d8b37a50b3fdbf
+Author: Rick Walker <walkrick@yahoo.com>
+Date:   Thu Jun 12 15:18:04 2014 -0600
+
+    three tries
+
 commit 9dee01cc551a48ea2bfa7b98a78e144cd712790a
 Author: Adam Legg <adam.legg@gmail.com>
 Date:   Thu Jun 12 15:01:59 2014 -0600
 
     new line
+
+commit 38019f883426a4b6c9905ac1cd2989d6d846a2fc
+Author: Rick Walker <walkrick@yahoo.com>
+Date:   Thu Jun 12 15:01:50 2014 -0600
+
+    give it a try
 
 commit f1f04b74f1b58c50a04cd7f18d4bbbe9974795cc
 Author: Adam Legg <adam.legg@gmail.com>
